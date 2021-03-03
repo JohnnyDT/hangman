@@ -21,5 +21,5 @@ Cieľom hry je uhádnuť slová (slovné spojenia) pričom máte iba obmedzený 
 ### Menu hry
 Hra obsahuje jednoduché menu:  
 1. NEW GAME  
-2. ADD NEW WORLD 
+2. ADD NEW WORD 
 3. EXIT 

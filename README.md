@@ -1,6 +1,6 @@
 # Hangman
 
-Jednoduchá hra Hangman (Obesenec).   
+Jednoduchá hra Hangman (Obesenec) z predmetu Princípy operačných systémov.
 
 ![Hagman](/images/hangman.jpg)
 
